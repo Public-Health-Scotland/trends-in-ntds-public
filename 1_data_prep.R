@@ -1,6 +1,6 @@
 ###### TRENDS IN NEURAL TUBE DEFECTS (NTD) R CODE SCRIPT
 
-#This script prepares the datasets for analysis
+# This script prepares the datasets for analysis
 
 # ---- Section 1: Housekeeping ----
 
